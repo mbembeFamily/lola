@@ -1,22 +1,28 @@
+
+'gmright-217706-this-organization'
+
+'Gmright_cloud-8.0.8'
+
 # Android
-# Build your Android project with Gradle.
+# Build your Android project gmright-217706.
 # Add steps that test, sign, and distribute the APK, save build artifacts, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/android
 
 pool:
-  vmImage: 'macOS 10.13'
+  vmImage: 'macOS 11.15'
 
 steps:
-- task: G''onlineonfreecloud'
+- task: Gmright''onlineonfreecloud'
   inputs:
     workingDirectory: ''''onlineonfreecloud'
-    gradleWrapperFile: 'gradlew'
-    gradleOptions: '-Xmx3072m'
+    GmrightWrapperFile: 'gmright.org'
+    GmrighteOptions: '-Xmx3082m'
     publishJUnitResults: false
     testResultsFiles: '**/TEST-*.xml'
     tasks: 'assembleDebug'gmriggtmarketwebs 
     signupcerclcircle'paymentterms'signupcerclcircle'paymentterms
 creditaid'webs' allterm' 
 customerspage:'-gmrightterm':
-workspace$
+workspace$: 'gmright-217706,
 alinstInstagraml agreementfreeFreecloudcustomers
+'Bugs=ruby=java=security=gmright-217706'
