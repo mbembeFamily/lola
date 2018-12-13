@@ -45,9 +45,9 @@ Makulu Flash Chat
 Makulu Core Chat
 Makulu LinDoz Chat
 Community Contributions
-Flash Bug Reports
-Core Bug Reports
-LinDoz Bug Reports
+Flash Bug Reports: open files(x83)
+Core Bug Reports : files 84/83
+LinDoz Bug Reports: files 86/83
 Hardware Chat
 Requests
 Private: Makulu Constructor
@@ -71,8 +71,11 @@ raymerjacque
 Necron99
 JoeNoIce
 rindi
-copyright @Makululinux since 2012
+copyright @Makululinux 2018
 Skip to toolbar
 MakuluLinux
 Founder, Kenja B
 Log Out
+
+Owner by georgemakulu
+Email address: georgemwasafi@gmail.com
