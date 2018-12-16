@@ -49,33 +49,19 @@ Flash Bug Reports: open files(x83)
 Core Bug Reports : files 84/83
 LinDoz Bug Reports: files 86/83
 Hardware Chat
-Requests
-Private: Makulu Constructor
+Pull-Requests-vision.6.9.8
+Private: gmright Constructor
 Open Staff Positions
 Private: MakuluLinux LinDoz Test Builds
-Private: MakuluLinux Core Test Builds
-Private: MakuluLinux Flash Test Builds
-Private: MakuluLinux Staff Chat
-Private: MakuluLinux Shift Test Builds
+Private: gmright core Test Builds
+Private: gmright
+Private gmright Flash Test Builds
+Private: gmright Staff Chat
+Private: gmright Shift Test Builds
 TRANSLATE
  en English
 ACCOUNT
  
-Kenja B
-Log Out
- 
- MakuluLinux
-5 USER(S) ONLINE JOIN SERVER
-mustardtiger
-raymerjacque
-Necron99
-JoeNoIce
-rindi
-copyright @Makululinux 2018
-Skip to toolbar
-MakuluLinux
-Founder, Kenja B
-Log Out
+copyright @GMRIGHT 2018
 
-Owner by georgemakulu
-Email address: georgemwasafi@gmail.com
+
